@@ -1,0 +1,5 @@
+[
+  { "_id": "1", "title": "₹59 Samosa Combo", "price": 59, "vendorId": "v1" },
+  { "_id": "2", "title": "₹99 Veg Thali", "price": 99, "vendorId": "v2" },
+  { "_id": "3", "title": "₹149 Pizza Offer", "price": 149, "vendorId": "v3" }
+]
